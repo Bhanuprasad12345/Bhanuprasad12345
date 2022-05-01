@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m currently learning DATASCIENCE 
 - 👯 I’m looking to collaborate on some cool roles /jobs in Data science
-- 💬 Ask me about Python,sql,tableu,msexcel,machinelearning and datascience
+- 💪 Some of my skills are  Python,SQL,Tableu,MSexcel,Machinelearning and Datascience
 - 📫 How to reach me: prasadbhanu1998@gmail.com
 - 😄 Projects: 
 -     1.English Dictionary App 📔
